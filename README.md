@@ -1,5 +1,7 @@
 # Eclipse Theta-7 — Reflection Experience
 
+**Explore online:** [Open the public browser experience](https://luckygithub777.github.io/eclipse-theta-seven-reflection/). The symbolic browser experience is available online with optional locally saved exports.
+
 A browser-based seven-step symbolic reflection using geometry and optional audio. The prompts encourage observation, evidence, alternative explanations, boundaries, and one reversible next action.
 
 Open [index.html](index.html) in a modern browser. The CSS, JavaScript, vector images, and web manifest are bundled locally; there is no account, telemetry, outside script, or hosted backend. Optional sound stays under visitor control.
