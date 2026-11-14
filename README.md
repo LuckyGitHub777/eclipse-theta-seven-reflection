@@ -8,4 +8,4 @@ Open [index.html](index.html) in a modern browser. The CSS, JavaScript, vector i
 
 The artwork is an **interpretive practice**, not an empirical consciousness mechanism, medical intervention, or claim that a particular spiritual interpretation is fact. Follow the application's privacy notices when recording personal reflections.
 
-**License:** The original [MIT LICENSE](LICENSE) and copyright attribution remain unchanged. [MANIFEST.sha256](MANIFEST.sha256) records released source hashes.
+**License:** The [MIT LICENSE](LICENSE) and its copyright attribution requirements apply. [MANIFEST.sha256](MANIFEST.sha256) records released source hashes.
